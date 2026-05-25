@@ -1,10 +1,3 @@
-It looks like you are setting up a brand-new repository for your **Mancala Game** on your `semiculine` account!
-
-Since the repository only has the `mancala_game.py` file so far, here is a professional, fully structured `README.md` tailored specifically for a Python-based Mancala project.
-
-You can copy the code block below and paste it directly into the GitHub text editor on your screen:
-
-```markdown
 # Mancala Game
 
 A Python implementation of the classic two-player strategy board game, Mancala. This project handles the traditional game logic, pit management, turn-switching, and stone redistribution.
