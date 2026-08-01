@@ -48,5 +48,6 @@ Make sure you have Python 3 installed on your machine.
 
 
 3. Run the game script:
-```bash
-python mancala_game.py
+   ```bash
+   python mancala_game.py
+   ```
