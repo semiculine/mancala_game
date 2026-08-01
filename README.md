@@ -39,14 +39,12 @@ Make sure you have Python 3 installed on your machine.
 1. Clone your repository to your local machine:
    ```bash
    git clone [https://github.com/semiculine/mancala_game.git](https://github.com/semiculine/mancala_game.git)
-
-```
+   ```
 
 2. Navigate into the directory:
-```bash
-cd mancala_game
-
-```
+   ```bash
+   cd mancala_game
+   ```
 
 
 3. Run the game script:
